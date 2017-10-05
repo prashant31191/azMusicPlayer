@@ -1,7 +1,7 @@
 # Timber
-[![Build Status](https://travis-ci.org/naman14/Timber.svg?branch=master)](https://travis-ci.org/naman14/Timber)
+[![Build Status]https://github.com/prashant31191/azMusicPlayer](https://prashant31191.github.io/)
 
-[WIP][BETA]-Material Design Music Player
+[WIP][BETA]-Material Music Player
 
 <a href='https://play.google.com/store/apps/details?id=naman14.timber&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
 
@@ -9,13 +9,13 @@
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen2.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen3.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen7.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen1.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen5.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen4.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen6.png" width="360" height="640">
+<img src="https://raw.githubusercontent.com/prashant31191/azMusicPlayer/master/graphics/screen2.png" width="360" height="640">
+<img src="https://raw.githubusercontent.com/prashant31191/azMusicPlayer/master/graphics/screen3.png" width="360" height="640">
+<img src="https://raw.githubusercontent.com/prashant31191/azMusicPlayer/master/graphics/screen7.png" width="360" height="640">
+<img src="https://raw.githubusercontent.com/prashant31191/azMusicPlayer/master/graphics/screen1.png" width="360" height="640">
+<img src="https://raw.githubusercontent.com/prashant31191/azMusicPlayer/master/graphics/screen5.png" width="360" height="640">
+<img src="https://raw.githubusercontent.com/prashant31191/azMusicPlayer/master/graphics/screen4.png" width="360" height="640">
+<img src="https://raw.githubusercontent.com/prashant31191/azMusicPlayer/master/graphics/screen6.png" width="360" height="640">
 
 ## Features
 - Material design
@@ -32,7 +32,7 @@
 
 ## Changelog
 
-Changelog is available [here](https://github.com/naman14/Timber/blob/master/Changelog.md)
+Changelog is available [here](https://github.com/prashant31191/azMusicPlayer/blob/master/Changelog.md)
 
 ## Credits
 
@@ -42,18 +42,19 @@ Changelog is available [here](https://github.com/naman14/Timber/blob/master/Chan
 * [PlayPauseButton](https://github.com/recruit-lifestyle/PlayPauseButton)
 * [CircularSeekBar](https://github.com/devadvance/circularseekbar)
 * [Nammu](https://github.com/tajchert/Nammu)
+* [Timber](https://github.com/naman14/Timber)
 
 #Donate
 Paypal donation email-
-namandwivedi14@gmail.com
+prashantchovatiya3@gmail.com
+or
+#|Click here|
+>>https://www.paypal.me/prashant3/5
+or
+#|Try|
+>>https://www.payumoney.com/paybypayumoney/#/1E82F0A222367598C12839E2A0973AC0
 
 
-## License
+#More Deatil
+https://prashant31191.github.io/
 
->(c) 2015 Naman Dwivedi 
-
->This is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. 
-
->This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. 
-
->You should have received a copy of the GNU General Public License along with this app. If not, see <https://www.gnu.org/licenses/>.
